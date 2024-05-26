@@ -22,12 +22,6 @@ AppFactory::setContainer($container);
 
 $app = AppFactory::create();
 
-$app->get('/hello/{name}', function (Request $request, Response $response, array $args = []) {
-    $html = $this->get('templating')->render('hello.html', [
-        'name' => $args['name']
-    ]);
-    $response->getBody()->write($html);
-    return $response;
-});
+$app->get('/', 'App\Controller\IndexController:homepage');
 
 $app->run();
