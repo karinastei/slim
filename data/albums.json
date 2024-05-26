@@ -1,129 +1,114 @@
 [
   {
-
+    "id": 1,
+    "type": "Soul",
+    "year": 1987,
     "title": "Insomniac",
-
     "artist": "Green Day"
-
   },
-
   {
-
+    "id": 2,
+    "type": "Soul",
+    "year": 1990,
     "title": "American Idiot",
-
     "artist": "Green Day"
-
   },
-
   {
-
+    "id": 3,
+    "type": "Pop",
+    "year": 1984,
     "title": "Conspiracy of One",
-
     "artist": "Offspring"
-
   },
-
   {
-
+    "id": 4,
+    "type": "Rap",
+    "year": 1207,
     "title": "Dead Silience",
-
     "artist": "Billy Talent"
-
   },
-
   {
-
+    "id": 5,
+    "type": "Rock",
+    "year": 1999,
     "title": "ANThology",
-
     "artist": "Alien Ant Farm"
-
   },
-
   {
-
+    "id": 6,
+    "type": "Rock",
+    "year": 1997,
     "title": "Enema of the State",
-
     "artist": "Blink-182"
-
   },
-
   {
-
+    "id": 7,
+    "type": "Soul",
+    "year": 1927,
     "title": "Pennybridge Pioneers",
-
     "artist": "Milencolin"
-
   },
-
   {
-
+    "id": 8,
+    "type": "Soul",
+    "year": 1917,
     "title": "Chuck",
-
     "artist": "Sum 41"
-
   },
-
   {
-
+    "id": 9,
+    "type": "Soul",
+    "year": 1977,
     "title": "The State",
-
     "artist": "Nickelback"
-
   },
-
   {
-
+    "id": 10,
+    "type": "Rock",
+    "year": 1957,
     "title": "Silver Side Up",
-
     "artist": "Nickelback"
-
   },
-
   {
-
+    "id": 11,
+    "type": "Soul",
+    "year": 1990,
     "title": "Fallen",
-
     "artist": "Evenescence"
-
   },
-
   {
-
+    "id": 12,
+    "type": "Rock",
+    "year": 1996,
     "title": "Scripted",
-
     "artist": "Icon For Hire"
-
   },
-
   {
-
+    "id": 13,
+    "type": "Rap",
+    "year": 1997,
     "title": "Icon For Hire",
-
     "artist": "Icon For Hire"
-
   },
-
   {
-
+    "id": 14,
+    "type": "Soul",
+    "year": 1955,
     "title": "You Can't Kill Us",
-
     "artist": "Icon For Hire"
-
   },
-
   {
-
+    "id": 15,
+    "type": "Rap",
+    "year": 1998,
     "title": "Sleeping With Ghosts",
-
     "artist": "Placebo"
-
   },
-
   {
-
+    "id": 16,
+    "type": "Soul",
+    "year": 2002,
     "title": "Steal This Album",
-
     "artist": "System of a Down"
-
   }
 ]
